@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="600"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="true"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="0"/>
+                    <attribute id="BackgroundUUID" type="guid" value="1252a86e-9baa-4ccb-b8ce-2378ae006f0b"/>
+                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Shadowheart"/>
+                    <attribute id="ClassUUID" type="guid" value="ff4d9497-023c-434a-bd14-82fc367e991c"/>
+                    <attribute id="Description" type="FixedString" value="Gustav_Origins_New_Stat_4_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Gustav_Origins_New_Stat_4_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="GlobalTemplate" type="guid" value="3ed74f06-3c60-42dc-83f6-f034cb47c679"/>
+                    <attribute id="GodUUID" type="guid" value="2eb3557f-7ada-41d6-a892-e02def72ef77"/>
+                    <attribute id="LockClass" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Shadowheart"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="45f4ac10-3c89-4fb2-b37d-f973bb9110c0"/>
+                    <attribute id="SubClassUUID" type="guid" value="1c761ad0-6f5f-409e-ac1d-ddf6f85c1fc4"/>
+                    <attribute id="SubRaceUUID" type="guid" value="30fafb0b-7c8b-4917-bd2a-536233b35d3c"/>
+                    <attribute id="UUID" type="guid" value="2bb39cf2-4649-4238-8d0c-44f62b5a3dfd"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="e9c6707b-a0d5-49b2-8966-a617d75f04eb"/>
+                    <children>
+                        <node id="AppearanceTags">
+                            <attribute id="Object" type="guid" value="8b4cf0fa-f712-4839-9439-f86a519078fa"/>
+                        </node>
+                        <node id="ReallyTags">
+                            <attribute id="Object" type="guid" value="642d2aee-e3df-47e3-9f47-bbcd441bb9e0"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
